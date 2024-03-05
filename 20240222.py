@@ -119,7 +119,6 @@ print(answer)
 
 # 좋은 풀이
 print(input().swapcase())
-ㅑㅏㅏ
 
 
 # 특수문자 출력하기
